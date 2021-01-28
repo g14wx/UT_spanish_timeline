@@ -1,0 +1,19 @@
+{
+    "secciones":[
+  
+      {
+        "titulo_lead_seccion":"Inicios del Español",
+        "Texto":"El español es una lengua romance, es decir, tiene sus orígenes en el latín que, con el Imperio Romano, abarcó gran parte de Europa, África y Asia; y, como toda lengua, fue evolucionando a través de los siglos. Es así que en España se formaron diferentes dialectos en cada región hasta que lentamente el castellano, que tuvo su cuna en Castilla, fue ganando la supremacía sobre los demás dialectos. Al conformarse España como nación, se reconoció a este idioma como español, denominación que predomina en nuestros días.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"blue accent-4",
+        "title":"Inicio",
+        "ico": "",
+        "explicacion":"inicio",
+        "colorExplicacion":"teal darken-4",
+        "link":"https://es.wikipedia.org/wiki/Imperio_romano",
+        "img": "https://cdn.pixabay.com/photo/2020/09/21/08/57/knight-5589397_960_720.png"
+      }
+  
+    ]
+  }
+  
