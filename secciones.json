@@ -1,0 +1,91 @@
+{
+    "secciones":[
+  
+      {
+        "titulo_lead_seccion":"Inicios del Español",
+        "Texto":"El español es una lengua romance, es decir, tiene sus orígenes en el latín que, con el Imperio Romano, abarcó gran parte de Europa, África y Asia; y, como toda lengua, fue evolucionando a través de los siglos. Es así que en España se formaron diferentes dialectos en cada región hasta que lentamente el castellano, que tuvo su cuna en Castilla, fue ganando la supremacía sobre los demás dialectos. Al conformarse España como nación, se reconoció a este idioma como español, denominación que predomina en nuestros días.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"blue accent-4",
+        "title":"Inicio",
+        "ico": "",
+        "explicacion":"inicio",
+        "colorExplicacion":"teal darken-4",
+        "link":"https://es.wikipedia.org/wiki/Imperio_romano",
+        "img": "https://cdn.pixabay.com/photo/2020/09/21/08/57/knight-5589397_960_720.png"
+      },
+      {
+        "titulo_lead_seccion":"La romanización de Hispania y Germania ",
+        "Texto":"La conquista y colonización de Hispania (desde el 218 a. C.) originó la pérdida de las lenguas prerromanas ?salvo el vasco? y su sustitución por el latín vulgar, que era una modalidad hablada distinta de la que encontramos en los textos literarios. En el siglo V los pueblos germánicos invadieron la península Ibérica, pero no alteraron el mapa lingüístico, puesto que estaban romanizados. No obstante, palabras de origen germánico, como albergue, tregua, guardián, quedaron incorporadas a la lengua.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"red accent-3",
+        "title":"La romanización",
+        "ico": "",
+        "explicacion":"romanizacion",
+        "colorExplicacion":"teal darken-4",
+        "link":"https://es.wikipedia.org/wiki/Romanizaci%C3%B3n_(aculturaci%C3%B3n)",
+        "img": "viking.gif"
+      },
+      {
+        "titulo_lead_seccion":"Origen del castellano",
+        "Texto":"El castellano es el resultado de la evolución que experimento el latín en un pequeño territorio del alto Ebro, en el sudeste de Cantabria y el norte de León. El castellano mostró un carácter innovador respecto al resto de los dialectos romances debido a que la región en que se formo había sido poco romanizada, era zona de hombres de armas y donde la alta cultura -expresada en latín¡- tenia escasa presencia.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"pink accent-3",
+        "title":"El castellano",
+        "ico": "",
+        "explicacion":"catellano",
+        "colorExplicacion":"teal darken-4",
+        "link":"https://es.wikipedia.org/wiki/Idioma_espa%C3%B1ol",
+        "img": "castillalogo.png"
+      },
+      {
+        "titulo_lead_seccion":"Expansión del castellano en la Edad Media",
+        "Texto":"En su expansión, el castellano se impuso a otros dialectos, como las hablas mozárabes del sur de la Península, al avanzar la Reconquista, o el leonés y el aragonés, al unirse Castilla a los reinos de León y de Aragón. A medida que avanzaban las conquistas, se iban desplazando hacia el Sur ?a Burgos y luego a Toledo? los centros de influencia del castellano, a la vez que se difundían los cambios que habían comenzado a tener lugar en el español norteño. ",
+        "icon_lead":"romanIcon.png",
+        "color_card":"purple darken-4",
+        "title":"En la edad media",
+        "ico": "",
+        "explicacion":"edadmedia",
+        "colorExplicacion":"teal darken-4",
+        "link":"https://es.wikipedia.org/wiki/Edad_Media",
+        "img": "casll.webp"
+      },
+      {
+        "titulo_lead_seccion":"El español de los Siglos de Oro",
+        "Texto":"Durante los siglos XVI y XVII la lengua se fue puliendo y fijando hasta adquirir una configuración muy parecida a la que tiene hoy día. La imprenta contribuyó de un modo decisivo a la uniformación gráfica, léxica y sintáctica de la norma culta del español. La fonética se regularizó, quedando prácticamente asentados los actuales sistemas vocálicos y consonánticos, al tiempo que se definieron muchas vacilaciones morfosintácticas.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"orange darken-4",
+        "title":"En la edad moderna",
+        "ico": "",
+        "explicacion":"edadmoderna",
+        "colorExplicacion":"orange darken-4",
+        "link":"https://es.wikipedia.org/wiki/Edad_Moderna",
+        "img": "edadmoderna.webp"
+      },
+      {
+        "titulo_lead_seccion":"La Ilustración ",
+        "Texto":"En 1713 se fundó la Real Academia Española, bajo el lema «Limpia, fija y da esplendor», con la finalidad de dotar al castellano de una norma definitiva y evitar malos usos y elementos extraños que pudiesen adulterar el idioma. Para desempeñar su labor, la Real Academia redactó un Diccionario de Autoridades (1726-1739), una Ortografía (1741) y una Gramática (1771). La escritura que utilizamos actualmente procede, con ligeras variaciones, de la que adoptó la Real Academia en el siglo XVIII y se caracteriza, a diferencia de otras lenguas, por ser fonética, es decir, por tratar de representar las palabras tal como se pronuncian.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"green accent-4",
+        "title":"MDCCXIII",
+        "ico": "",
+        "explicacion":"realacademiaespanola",
+        "colorExplicacion":"orange darken-4",
+        "link":"https://es.wikipedia.org/wiki/1713",
+        "img": "realacademia.png"
+      },
+      {
+        "titulo_lead_seccion":"El español contemporáneo ",
+        "Texto":"A partir del XIX, diversos factores han influido definitivamente en la nivelación de la lengua oficial sobre los dialectos, como, la mejora de las comunicaciones o la implantación de la escuela obligatoria. Esta nivelación se reforzó desde principios del siglo XX a causa de la radio y, en la actualidad, de la televisión.",
+        "icon_lead":"romanIcon.png",
+        "color_card":"yellow accent-4",
+        "title":"XIX",
+        "ico": "",
+        "explicacion":"XIX",
+        "colorExplicacion":"orange darken-4",
+        "link":"https://es.wikipedia.org/wiki/Siglo_XIX",
+        "img": "dali.jpg"
+      }
+  
+    ]
+  }
+  
