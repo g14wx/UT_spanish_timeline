@@ -3,6 +3,24 @@
       "inicio":{
           "content":"El Imperio Romano fue el período post-republicano de la antigua Roma. Como entidad política, incluía grandes posesiones territoriales alrededor del mar Mediterráneo en Europa, África del Norte y Asia Occidental gobernadas por emperadores.",
           "img":"https://www.caracteristicas.co/wp-content/uploads/2017/02/imperio-romano-e1562350281661.jpg"
+      },
+      "romanizacion":{
+        "content":"Se denomina romanización al proceso de asimilación cultural que tuvo lugar en la mayor parte de Europa occidental y los Balcanes en la antigüedad, por el cual numerosas regiones bajo el poder político de Roma adoptaron sus instituciones, costumbres, organización social y su lengua."
+      },
+      "catellano":{
+        "content":"Los rasgos que diferencian al castellano son: La f- inicial latina, conservada en los demás dialectos, en castellano se transformo en h aspirada y finalmente se dejo de pronunciar:<ul><li>farina Þ harina.</li><li> Las vocales latinas e y o breves y tónicas pasaron a ser diptongos en castellano: ventu Þ viento; focu Þ fuego.</li><li> Los grupos iniciales latinos pl-, cl-, fl-, evolucionaron a ll-: plorare Þ llorar, clamare Þ llamar, flamma Þ llama.</li><li> La silaba latina cul detras de una sílaba tónica acabó convirtiendose en j: speculu Þ espejo.</li><li>El grupo consonántico latino -ct- evolucionó a ch: factu Þ hecho; nocte Þ noche</li></ul>"
+      },
+      "edadmedia":{
+        "content":"La Edad Media, Medievo o Medioevo es el período histórico de la civilización occidental comprendido entre los siglos v y xv. Convencionalmente, su inicio se sitúa en el año 476 con la caída del Imperio romano de Occidente y su fin en 1492 con el descubrimiento de América."
+      },
+      "edadmoderna":{
+        "content":"La norma lingüística de la época variaba entre la de Toledo, donde estaba la Corte; la de Burgos, cuyos usos lingüísticos se consideraban anticuados; y la de Sevilla, que era la capital del comercio ultramarino. Finalmente, se adoptó como modelo la discreción (?buen gusto?) de los escritores y gente culta, al margen de su procedencia geográfica. "
+      },
+      "realacademiaespanola":{
+        "content":"La Real Academia Española (RAE)3 es una institución cultural española privada con sede en Madrid (España). Esta y otras veintitrés academias de la Lengua correspondientes a cada uno de los países donde se habla el español conforman la Asociación de Academias de la Lengua Española"
+      },
+      "XIX":{
+        "content":"La desaparición de las hablas rurales tradicionales se ha debido a las sucesivas oleadas de emigración del campo a las ciudades en los dos últimos siglos. Esto ha llevado al abandono de un tipo de vida tradicional y al olvido de una serie de palabras que la caracterizaban, como trillar, encalar, badila, que a muchas personas les resultan ya anticuadas."
       }
     }
   }

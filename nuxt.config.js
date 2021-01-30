@@ -20,7 +20,8 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {rel:"stylesheet", href:"https://unpkg.com/aos@next/dist/aos.css"}
     ]
   },
 
